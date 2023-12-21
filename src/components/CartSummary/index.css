@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.main-div {
+  font-family: 'Roboto';
+}
+.chekout-button {
+  background-color: #0b69ff;
+  border: none;
+  border-radius: 3px;
+  color: #ffffff;
+  width: 100%;
+  padding: 10px 0;
+}
+span {
+  color: #616e7c;
+}
+.p1 {
+  color: #616e7c;
+}
+.h1 {
+  color: #171f46;
+}
